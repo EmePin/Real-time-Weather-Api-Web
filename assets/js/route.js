@@ -1,8 +1,8 @@
 /**
  * @license MIT
  * @fileoverview Menage all routes
- * @copyright codewithsadee & Aimée Pineda 2023 All rights reserved
- * @author codewithsadee & Aimée Pineda
+ * @copyright Aimée Pineda & codewithsadee  2023 All rights reserved
+ * @author Aimée Pineda & codewithsadee 
  */
 
 'use strict';

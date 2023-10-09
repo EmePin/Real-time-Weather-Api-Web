@@ -1,8 +1,8 @@
 /**
  * @license MIT
  * @fileoverview All api related stuff like api_key, api request etc.
- * @copyright codewithsadee & Aimée Pineda 2023 All rights reserved
- * @author codewithsadee & Aimée Pineda
+ * @copyright Aimée Pineda & codewithsadee  2023 All rights reserved
+ * @author Aimée Pineda & codewithsadee 
  */
 
 'use strict';

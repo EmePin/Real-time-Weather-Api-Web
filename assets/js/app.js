@@ -1,7 +1,7 @@
 /**
  * @license MIT
- * @copyright codewithsadee & Aimee Pineda 2023 All rights reserved
- * @author codewithsadee & Aimee Pineda
+ * @copyright codewithsadee & Aimée Pineda 2023 All rights reserved
+ * @author codewithsadee & Aimée Pineda
  */
 
 'use strict';

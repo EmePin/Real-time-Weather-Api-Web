@@ -6,7 +6,7 @@
  */
 
 'use strict';
-const api_key = process.env.OPEN_WEATHER_MAP_KEY;
+const api_key = "process.env.OPEN_WEATHER_MAP_KEY";
 
 /**
  * Fetch data from server
